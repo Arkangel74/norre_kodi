@@ -1,3 +1,2 @@
-14.06.2020 erster test
-14.06.2020 addons.xml umbenannt
+Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI Mediacenter
 
