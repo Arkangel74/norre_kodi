@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.norre" name="meine Add-ons" version="1.0.1" provider-name="norre">
+<addon id="repository.norre" name="Sammlung von Add-ons" version="1.0.2" provider-name="norre">
 	<extension point="xbmc.addon.repository" name="NORRE">
 		<info compressed="false">https://raw.githubusercontent.com/Arkangel74/norre_kodi/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Arkangel74/norre_kodi/master/addons.xml.md5</checksum>
