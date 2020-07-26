@@ -4,4 +4,9 @@ Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI
 - JOYN
 - Emby über repo
 - Youtube
+- TVSpielfilm
+- Screensaver BING
+- Skin AEON NOX SILVO
+- SKIN HorizonV
+- TPDesign Wallpaper
 
