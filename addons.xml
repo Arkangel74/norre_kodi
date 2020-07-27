@@ -436,7 +436,6 @@ rework some stuff
 		</news>
 	</extension>
 </addon>
-</addons>
 <addon id="plugin.audio.tunein2017" name="TuneIn2017" version="1.6.0" provider-name="rols1 (rols1@gmx.de)">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
