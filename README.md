@@ -10,4 +10,7 @@ Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI
 - SKIN HorizonV
 - TPDesign Wallpaper
 - TuneIn2017
+- rautemusik
+- Spotify
+- shoutcast
 
