@@ -13,4 +13,7 @@ Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI
 - rautemusik
 - Spotify
 - shoutcast
+- skin embuary
+- skin estuary pkscout mod
+
 

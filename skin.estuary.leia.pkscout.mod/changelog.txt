@@ -1,0 +1,184 @@
+v.1.2.18
+- fix for video codec not showing in seek bar
+
+v.1.2.17
+- fix for duplicated media info in seek bar
+
+v.1.2.16
+- fixes from Estuary 2.0.27 in Kodi 18.7
+
+v.1.2.15
+- added video resolution to dialog seek bar (backport from Matrix version of Estuary)
+
+v.1.2.14
+- updated language files from Estuary 2.0.27 in Kodi 18.6
+
+v.1.2.13
+- changed skin string numbers to match required range from Kodi docs
+
+v.1.2.12
+- alternate music visualization layout now removes the difusion in front of artist images
+
+v.1.2.11
+- added optional music visualization layout to maximize background artist image view
+
+v.1.2.10
+- added support for Weather Icon Packs (thanks to Guilouz for the code)
+- added support for Premiere tags in PVR (requires PVR addon that supports those tags)
+
+v.1.2.9
+- fix for visible logic for legacy version of ArtistSlideshow
+
+v.1.2.8
+- fixes from Estuary 2.0.26 in Kodi 18.5
+
+v.1.2.7
+- bug in logic for displaying images from old version of Artist Slideshow
+
+v.1.2.6
+- changed top breadcrumb to smaller text to show more information
+- updates to support next version of Artist Slideshow
+
+v.1.2.5
+- updates from Estuary 2.0.25 in Kodi 18.4
+
+v.1.2.4
+- updates from Estuary 2.0.23 in Kodi 18.3
+
+v.1.2.3
+- fixes for new naming convention for Native NextPVR Client
+
+v.1.2.2
+- updates from Estuary 2.0.22 in Leia 18.2
+
+v.1.2.1
+- fix for Shoutcast radio support
+
+v.1.2.0
+- added option to not scale artist images on music visualization screen
+
+v.1.1.19
+- support for New NextPVR client shortcut in TV menu
+- small change to support Shoutcast radio as a TV channel
+
+v.1.1.18
+- fixes from Estuary 2.0.21 in Kodi 18.1 Final Release
+
+v.1.1.17
+- fixes from Estuary 2.0.21 in Kodi 18 Final Release
+
+v.1.1.16
+- updates from Estuary 2.019 (in Kodi 18RC5)
+
+v.1.1.15
+- language file fixes from Estuary 2.0.17 (in Kodi 18RC4)
+
+v.1.1.14
+- better support for 4 digit channel numbers in PVR dialog seek window
+- fixes from Estuary 2.0.16 (in Kodi 18RC3)
+
+v.1.1.13
+- updates from Estuary 2.0.16 (in Kodi 18RC2)
+
+v.1.1.12
+- updates from Estuary 2.0.14 (in Kodi 18RC1)
+
+v.1.1.11
+- fixes for improper closing of functional calls
+
+v.1.1.10
+- updates from Estuary 2.0.13 (in Kodi Leia Beta 5)
+
+v.1.1.9
+- updates from Estuary 2.0.13 (in Kodi Leia Beta 4)
+- removed some unmatched parentheses (thanks to HeresJohnny for that catch)
+
+v.1.1.8
+- fix for display problem on addon home menu right side if all options are turned off
+
+v.1.1.7
+- fix to show watched count on focused TV Show in Poster View
+
+v.1.1.6
+- updates from Estuary 2.0.13 (in Kodi Leia Beta 3)
+
+v.1.1.5
+- updates from Estuary 2.0.12 (in Kodi Leia Beta 2)
+
+v.1.1.4
+- added video addons widget as option in TV Show, Movie, and Video menu
+- added music addons widget as option in Music menu
+
+v.1.1.3
+- adjusted main menu action option settings order to match main menu default order
+- fixes for addons as menu actions
+- left area warning about empty libraries is suppressed if you choose addon as the action for that section
+
+v.1.1.2
+- updates from Estuary 2.0.12 (in Kodi Leia Beta 1)
+- added images back for proper weather station display
+
+v.1.1.1
+- added Video Addons, Music Addons, and Picture Addons as actions for the appropriate menus
+
+v.1.1.0
+- added option to select action for Movies, TV Shows, Music, Music Videos, TV, and Radio menus
+- added ability to customize the order and visibility of many of the sub menus
+- removed Artist Slideshow addon as required download
+- Artist Slideshow related skin settings are hidden if AS is not installed
+
+v.1.0.9
+- internal code change for how main menu items are displayed
+- game support enabled by default
+
+v.1.0.8
+- fix for condition that could cause Artist Slideshow images not to show even if available
+
+v.1.0.7
+- made PVR 4 channel display fixes non optional
+- fix for music artist background loading twice
+- added new option to show music artist bio when the Music OSD is showing
+- changed method for selecting what shows up in each menu slot (results in settings reset)
+- menu category settings now only show if that menu item is enabled in menu slot
+
+v.1.0.6
+- Estuary fixes from Estuary 2.0.11 (Leia Alpha 3)
+
+v.1.0.5
+- another fix for widget and category display in the addons section
+- fix so skin settings work on first load of skin without going to home screen
+
+v.1.0.4
+- fixed home menu widget conditional visibility to have consistent logic throughout
+- fixed addons screen so that categories show up properly
+
+v.1.0.3
+- reconfigured skin to respect games section active boolean
+- use Konami code to enable games: UP,UP,DOWN,DOWN,LEFT,RIGHT,LEFT,RIGHT,B,A
+- games home screen widget can now be hidden
+- picture and video home screen widgets can now be disabled
+- fixed home screen action for option to disable menu item when no library items are found
+
+v.1.0.2
+- fixed issue with addon category display logic
+
+v.1.0.1
+- fixed issue with background difusion changes not working
+- removed unneeded setting for extended video info
+- added option to hide games widget in addon section
+- refactored github commits so each option is it's own commit
+
+v.1.0.0
+- added option for small icons for category widgets
+- added widget to combine Unwatched and In Progress TV Shows
+- added options to hide home screen widgets for all sections (except Games)
+- added Artist Slideshow support
+- added option to auto start music visualization
+- change to artist image display to only show transparency overlay if player info or osd showing
+- added alternate timer layout puts show name as primary in PVR lists and details
+- added TV submenu items for X-NEWA and PseudoLibrary if they are installed
+- added background diffusion percentage to artwork settings
+- added alternate layout for weather icon on top bar
+- fix for 4 digit channel number in PVR OSD Extended Info and PVR Guide
+- added option to have weather screen work as a weather station/clock (with script.weatherstation)
+- Games support enabled by default, but Games section hidden by default
