@@ -15,5 +15,9 @@ Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI
 - shoutcast
 - skin embuary
 - skin estuary pkscout mod
+- rtl now
+- keymap editor
+- dukumonster
+- filmstarts
 
 
