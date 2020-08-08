@@ -19,5 +19,6 @@ Hier entsteht meine persönliche Liste an Addons und Erweiterungen für das KODI
 - keymap editor
 - dukumonster
 - filmstarts
+- AngelTV
 
 

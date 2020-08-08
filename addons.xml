@@ -803,4 +803,25 @@ v.1.2.18
 		</news>
 	</extension>
 </addon>
+<addon id="plugin.video.AngelTV" version="1.0.0" name="AngelTV" provider-name="norre">
+    <requires>
+        <import addon="xbmc.python" version="2.25.0"/>
+        <import addon="plugin.video.youtube" version="6.8.2"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de">AngelTV</summary>
+        <description lang="de">Verschiedene Angelkanäle</description>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+        <source>https://github.com/Arkangel74/plugin.video.AngelTV</source>
+        <news></news>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
 </addons>
